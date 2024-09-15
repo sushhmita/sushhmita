@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @sushhmita
+- 👋 Hi, I’m Sushmita
 - 👀 I’m interested in designing intelligent systems that learn from data and perform tasks traditionally requiring human intelligence. I enjoy data analysis and modeling to build predictive models, and I find algorithm development exciting, particularly in creating algorithms that enable machines to learn and improve. I'm also fascinated by neural networks, deep learning, natural language processing (NLP), and computer vision, where I work on systems that understand language and interpret visual information. Additionally, I'm committed to ethical AI and motivated by AI for social good, applying AI/ML to solve real-world challenges and explore the potential of robotics and autonomous systems.
 - 🌱 I’m currently learning AIML in advance.
 - 💞️ I’m looking to collaborate on projects that involve designing intelligent systems using data analysis, modeling, and algorithm development.
-- 📫 You can reach me here : https://www.linkedin.com/in/sushmita-mudinur-009027257/
-- 😄 Pronouns: she/her
+
   
 
 <!---
