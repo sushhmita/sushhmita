@@ -98,7 +98,7 @@ class SushmitaMudinur:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
@@ -117,7 +117,7 @@ class SushmitaMudinur:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushhmita&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=9B59FF&fire=ff6b6b&currStreakLabel=9B59FF&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sushhmita&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=9B59FF&fire=ff6b6b&currStreakLabel=9B59FF&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
