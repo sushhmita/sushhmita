@@ -115,7 +115,7 @@ class SushmitaMudinur:
 
 </div>
 
-<div align="center">
+<div align="center" style="width:100%">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sushhmita&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=9B59FF&fire=ff6b6b&currStreakLabel=9B59FF&card_width=800)](https://git.io/streak-stats)
 
