@@ -138,7 +138,7 @@ class SushmitaMudinur:
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/sushhmita/sushhmita/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://sushhmita.github.io/sushhmita/github-contribution-grid-snake-dark.svg)
 
 </div>
 
