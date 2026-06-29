@@ -39,6 +39,15 @@ class SushmitaMudinur:
         self.languages   = ["Python", "JavaScript", "Java", "C++", "SQL"]
         self.stack       = ["FastAPI", "LangGraph", "Qdrant", "Next.js", "PostgreSQL"]
         self.interests   = ["Agentic AI", "RAG Systems", "Fintech Automation", "NLP", "Product Strategy"]
+        self.writing     = ["Technical Research", "AI Policy", "Financial Analysis"]
+
+    def current_focus(self):
+        return [
+            "Building production-grade agentic AI pipelines",
+            "Exploring LLM orchestration with LangGraph & LangChain",
+            "Researching AI applications in financial systems",
+            "Writing about AI x Fintech x Policy",
+        ]
 
     def open_to(self):
         return ["Full-Time SDE / AI-ML Roles", "Fintech Product Engineering", "Research & Technical Writing"]
@@ -143,16 +152,23 @@ current_focus:
     - Advanced LLM orchestration with LangGraph
     - Vector database optimization (Qdrant + hybrid search)
     - AI x Financial Systems research
+    - Product management frameworks
 
   building:
     - Agentic AI pipelines for financial data
     - Full-stack applications with FastAPI + Next.js
     - NLP-driven document intelligence tools
 
+  exploring:
+    - AI policy and regulation in emerging markets
+    - Open-source contributions in AI/ML tooling
+    - Technical writing on AI x Fintech intersection
+
   open_to:
-    - Full-time SDE / AI-ML Engineering roles
+    - Full-time SDE / AI-ML Engineering roles 
     - Fintech Product Engineering
     - Research & Technical Writing roles
+    - Priority markets: Fintech · Bengaluru Products
 ```
 
 ---
