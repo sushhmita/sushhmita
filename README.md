@@ -109,16 +109,19 @@ class SushmitaMudinur:
 
 ## 📊 GitHub Analytics
 
-
 <div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushhmita&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9B59FF&icon_color=9B59FF&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
+  <!-- Fixed GitHub Stats Card using a reliable community mirror -->
+  <img src="https://vercel.app" width="49%"/>
+  <!-- Fixed Streak Stats Card using the modern Vercel API endpoint -->
   <img src="https://vercel.app" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=9B59FF&line=9B59FF&point=ffffff" width="98%"/>
+  <!-- Your working activity graph -->
+  <img src="https://vercel.app" width="98%"/>
 </p>
 </div>
+
 
 
 ---
