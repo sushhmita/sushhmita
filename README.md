@@ -117,7 +117,6 @@ class SushmitaMudinur:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=9B59FF&line=9B59FF&point=ffffff" width="98%"/>
 </p>
-<br>
 </div>
 
 ---
