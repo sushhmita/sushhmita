@@ -111,24 +111,11 @@ class SushmitaMudinur:
 
 <div align="center">
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sushhmita&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9B59FF&icon_color=9B59FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800"
-    width="49%"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&theme=github-compact&hide_border=true&area=true" width="98%"/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=sushhmita&theme=dark&hide_border=true&background=0d1117&stroke=9B59FF&ring=9B59FF&fire=9B59FF&currStreakLabel=9B59FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=1800"
-    width="49%"
-  />
-</p>
+<br><br>
 
-<p>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=9B59FF&line=9B59FF&point=ffffff"
-    width="98%"
-  />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=sushhmita&theme=discord&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
