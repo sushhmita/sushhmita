@@ -109,29 +109,14 @@ class SushmitaMudinur:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushhmita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B59FF&icon_color=7b2fff&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img width="80%" src="https://streak-stats.demolab.com?user=sushhmita&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=9B59FF&fire=ff6b6b&currStreakLabel=9B59FF&card_width=800"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&bg_color=0d1117&color=9B59FF&line=7b2fff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushhmita&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=9B59FF&line=9B59FF&point=ffffff" width="98%"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushhmita&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9B59FF&icon_color=9B59FF&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushhmita&theme=dark&hide_border=true&background=0d1117&stroke=9B59FF&ring=9B59FF&fire=9B59FF&currStreakLabel=9B59FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+</p>
 
 ---
 
