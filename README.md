@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:7b2fff,100:4b0082&height=200&section=header&text=Sushmita%20Mudinur&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Fintech%20Builder%20%7C%20Agentic%20Systems&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59FF&center=true&vCenter=true&width=700&lines=%7C+Agentic+Systems+Engineer;Fintech+%2B+AI+%7C+LLMs+%2B+RAG+%2B+Vector+DBs;Full+Stack+Engineer+%7C+FastAPI+%2B+Next.js;Research+%26+Technical+Writing;Building+intelligent+systems%2C+one+model+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59FF&center=true&vCenter=true&width=700&lines=Fintech+%2B+AI+%7C+LLMs+%2B+RAG+%2B+Vector+DBs;Full+Stack+Engineer+%7C+FastAPI+%2B+Next.js;Research+%26+Technical+Writing;Building+intelligent+systems%2C+one+model+at+a+time.)](https://git.io/typing-svg)
 
 <br/>
 
